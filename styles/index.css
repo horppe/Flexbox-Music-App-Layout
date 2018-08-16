@@ -84,7 +84,7 @@ div.switchBox .fa {
   text-shadow: 5px 5px 5px var(---bg-hover-color), -5px -5px 5px var(---bg-hover-color),
    -5px 5px 5px var(---bg-hover-color), 5px -5px 5px var(---bg-hover-color);
 
-   transition-duration: .5s;
+   transition-duration: .3s;
    transition-property: margin-left, margin-right;
    transition-timing-function: ease-out;
    position: relative;
@@ -392,7 +392,7 @@ div.music-list li p{
    }
    div.switchBox i.fa{
      font-size: 1.1rem;
-     top: 10%;
+     top: 13%;
    }
 
    div.music-content{
