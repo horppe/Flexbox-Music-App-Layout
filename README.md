@@ -1,5 +1,5 @@
 # Flexbox-Music-App-Layout
-Click <a href="https://horppe.github.io/Flexbox+Music+App+Layout">here</a> to view
+Click <a href="https://horppe.github.io/Flexbox-Music-App-Layout">here</a> to view
 
 Hint: Click the switch at the top right corner.
 
