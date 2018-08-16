@@ -10,6 +10,7 @@ https://github.com/ohansemmanuel/Understanding-Flexbox
 
 <b>Second Theme:</b>
 
+<p style="text-align:center">
 ![Alt text](images/readme-three.png?raw=true "Mobile View")
-
+</p>
 ![Alt text](images/readme-two.png?raw=true "Desktop View")
