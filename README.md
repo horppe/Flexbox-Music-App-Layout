@@ -3,7 +3,7 @@ Click <a href="https://horppe.github.io/Flexbox-Music-App-Layout">here</a> to vi
 
 Hint: Click the switch at the top right corner.
 
-My Clone of the design from this tutorial: 
+My Version of the design from this tutorial: 
 "Understanding Flexbox" Click <a href="https://github.com/ohansemmanuel/Understanding-Flexbox"><strong>Here</strong></a> to check out the tutorial. It's pretty good.
 
 
