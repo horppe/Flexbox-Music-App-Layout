@@ -3,9 +3,9 @@ Click <a href="https://horppe.github.io/Flexbox-Music-App-Layout">here</a> to vi
 
 Hint: Click the switch at the top right corner.
 
-Design is from this tutorial: 
-Understanding Flexbox
-https://github.com/ohansemmanuel/Understanding-Flexbox
+My Clone of the design from this tutorial: 
+"Understanding Flexbox" Click <a href="https://github.com/ohansemmanuel/Understanding-Flexbox"><strong>Here</strong></a>
+
 
 ![Alt text](images/readme-one.png?raw=true "Desktop View")
 
