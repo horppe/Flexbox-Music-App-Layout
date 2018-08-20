@@ -1,4 +1,4 @@
-// Require in Header Handler
+// Require in ThemeChange Handler
 document.writeln(`<script src=./scripts/themeIndex.js></script>`);
 
 function addListItems(){
